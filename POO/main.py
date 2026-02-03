@@ -1,7 +1,6 @@
-from POO.others.person import Person
+from POO.social.person import Person
 from POO.time.hours import Hours
 from POO.geometry.point import Point
-from POO.geometry.point3 import Point3
 from POO.geometry.sphere import Sphere
 from POO.geometry.cylinder import Cylinder
 
